@@ -1,0 +1,4 @@
+﻿  UT_Lab_5.3.cpp
+C:\Users\Admin\source\repos\Lab_5.3\UT_Lab_5.3\UT_Lab_5.3.cpp(1,10): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+C:\Users\Admin\source\repos\Lab_5.3\UT_Lab_5.3\UT_Lab_5.3.cpp(1,10): error C2855: command-line option '/execution-charset' inconsistent with precompiled header
+C:\Users\Admin\source\repos\Lab_5.3\UT_Lab_5.3\UT_Lab_5.3.cpp(1,10): fatal  error C1903: unable to recover from previous error(s); stopping compilation
